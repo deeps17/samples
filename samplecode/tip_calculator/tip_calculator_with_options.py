@@ -1,5 +1,7 @@
 #! /usr/bin/python
 
+# This is a new options file with this text added
+
 from optparse import OptionParser
 
 parser = OptionParser()
